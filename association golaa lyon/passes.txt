@@ -1,0 +1,16 @@
+hosting:
+https://login.ionos.fr/?shoplogin=enabled&_gl=1*1a7z968*_gcl_au*MjExNzcyNDcwMi4xNzQxMzg2MzY1*_ga*OTU0MjQxNDEzLjE3NDEzODYzNjU.*_ga_29DKNVLRWX*MTc0MTM4NjM2NS4xLjAuMTc0MTM4NjM2NS42MC4wLjA.
+login: golaa.fr
+pass: @Golaa694234
+
+
+
+https://presence.ionos.fr/fr-FR/c7a289c6-2d2f-41b6-b803-1440782a3b30/dashboard#
+
+- créer une chaine YouTube pour télécharger les vidéos
+- version site web français / arabe
+- intégrer une fenêtre de la page Facebook
+- Onglets: accueil / activités / Photos/ Adhésion / nous contacter
+https://www.helloasso.com/associations/association-france-golaa
+https://www.helloasso.com/associations/association-france-golaa/formulaires/1
+- Intégrer un lien wikipedia à la page d’accueil pour présenter la ville d'Elgolaa
